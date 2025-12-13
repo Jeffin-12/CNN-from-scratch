@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📘 Convolutional Neural Network From Scratch (NumPy Only)
 
 *A minimal deep-learning framework implementing a full CNN without using PyTorch, TensorFlow, or Keras.*
@@ -137,4 +137,4 @@ For major changes, open an issue first to discuss what you'd like to add.
 MIT License — free to use, modify, and distribute.
 =======
  
->>>>>>> ed763ef (Initial commit: CNN from scratch using NumPy)
+
