@@ -134,7 +134,8 @@ For major changes, open an issue first to discuss what you'd like to add.
 
 ## 📝 License
 
-MIT License — free to use, modify, and distribute.
+MIT License 
+
 =======
  
 
